@@ -1,0 +1,4 @@
+Byethost
+github
+	-repository name must be the same as account name
+	-settings-github pages-master branch (to make sites visible instead of just html)
